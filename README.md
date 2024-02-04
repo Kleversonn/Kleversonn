@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Kleversonn
+- 👋 Hi, I’m @Kleversonn. I'm from Brasil
 - 👀 I’m interested in programming
-- 🌱 I’m currently programming and economy
-- 💞️ I’m looking to collaborate on ...
+-I'm currently learning programming and economics
 - 📫 How to reach me ... kleversonlg@hotmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
